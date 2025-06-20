@@ -25,3 +25,7 @@ Nhấp đúp vào game.py để mở trò chơi, Nhấn phím cách để bắt 
 * Sử dụng các phím mũi tên Trái, Phải, Lên, Xuống hoặc tương đương a, d, w, s để di chuyển tên lửa.
 * Sử dụng q hoặc e để xoay tên lửa sang trái hoặc phải tương ứng.
 * Sử dụng phím cách để bắn.
+
+
+## Author
+Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
