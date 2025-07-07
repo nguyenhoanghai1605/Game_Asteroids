@@ -30,3 +30,4 @@ Nhấp đúp vào game.py để mở trò chơi, Nhấn phím cách để bắt 
 ## Author
 Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
 LucasDev89 - https://github.com/LucasDev89
+Devapro235 - https://github.com/Devapro235
