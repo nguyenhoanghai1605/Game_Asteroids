@@ -17,7 +17,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install followi
 pip install pygame
 ```
 
-## Cách sử dụng
+## Cách sử dụng:
 
 Nhấp đúp vào game.py để mở trò chơi, Nhấn phím cách để bắt đầu trò chơi. Mục tiêu của trò chơi là phá hủy càng nhiều tiểu hành tinh càng tốt.
 
@@ -27,5 +27,5 @@ Nhấp đúp vào game.py để mở trò chơi, Nhấn phím cách để bắt 
 * Sử dụng phím cách để bắn.
 
 
-## Author
+## Author:
 Co-authored-by: Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
